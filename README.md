@@ -23,6 +23,7 @@ We’ll now dive into some trends observed and notable players for each position
 
 ## Position #1: Volume Combo Guard
 The volume combo guard position consists of mainly point guards and shooting guards with the occasional forward mixed in. It is characterized by inefficient shooting (40.8 FG%, 31.9 3PT%) and near similar assist and turnover rates (18.4% assist rate, 14.3% turnover rate). They are also generally poor defenders (-0.66 defensive box plus-minus). When hot, the volume combo guard can be a useful contributor because of their ability to get shots up (8.2 FGA). However, given their overall inconsistencies offensively and poor defensive ability, NBA teams should not have more than 1-2 of these players on the roster. 
+
 Notable Players:
 - Dillon Brooks
 - Lu Dort (was one of the stronger defensive players in this position)
