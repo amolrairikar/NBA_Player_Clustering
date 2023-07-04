@@ -14,10 +14,10 @@ The above analysis resulted in 8 positions that are found in the modern NBA:
 - Two-way big 
 - 3&D specialists
 - Scoring playmaker
-- 3-point specialists
+- 3-point specialist
 - Rebounding big 
-- Volume scorer
-- Two-way superstars
+- Scorer
+- Two-way superstar
 
 We’ll now dive into some trends observed and notable players for each position. Note that all statistics referenced below are an average for each position.
 
@@ -49,3 +49,33 @@ Notable Players:
 - Al Horford (it is strange to see big men classified as 3&D but Horford was a 45% three-point shooter this season and recorded a 1.7       defensive box plus-minus)
 
 ## Position #4: Scoring Playmaker
+The scoring playmaker is a high usage (29% USG) player that is very proficient at both scoring (24.7 PPG) and setting up teammates (6 APG). They are some of the best players in the NBA with the only weakness being their defense, which is below average (-0.21 defensive box plus-minus). These players handle the ball on most plays and tend to make their teammates better with their passing abilities. Other positions such as the 3&D specialist and two-way big man especially benefit from this player.
+Notable Players:
+- Steph Curry
+- Tyrese Haliburton (Haliburton was one of the youngest players on this list at 22 years old)
+- Jalen Brunson
+- James Harden
+- LeBron James
+
+## Position #5: 3-Point Specialist
+The 3-point specialist is similar to the 3&D specialist but even more limited in their skillset because their defense is below average (37.1 3PT%, -0.1 defensive box plus-minus). These players tend to have plays run for them where they come off screens for open three-pointers and rarely attempt other types of shots (6.2 FGA, 3.7 3PT FGA). The value of 3-point specialists comes from their ability to space the floor, which opens up space for the scorers and playmakers on the team.
+Notable Players:
+- Nicolas Batum
+- Joe Harris
+- Maxi Kleber
+- Doug McDermott
+- Keegan Murray (Murray was one of the highest scorers in this player category at 12.2 PPG)
+
+## Position #6: Rebounding Big
+The rebounding big is, as the name suggests, a very strong rebounder (7.6 RPG, 17.9 TRB%). These players can be starters that rack up huge rebounding numbers over the course of a game, or bench players that can shift the tide of the game by grabbing 3-4 quick rebounds to provide their team with extra possessions. They tend to be very efficient players (0.672 TS%) due to their limited offensive skillset, consisting mainly of finishing dunks and lobs (8.9 PPG). 
+Notable Players:
+- Steven Adams
+- Jarrett Allen
+- Clint Capela
+- Nic Claxton
+- Ivaca Zubac
+
+## Position 7: Scorer
+
+
+## Position 8: Two-way Superstar
