@@ -62,7 +62,7 @@ Notable Players:
 - LeBron James
 
 ## Position #5: 3-Point Specialist
-The 3-point specialist is similar to the 3&D specialist but even more limited in their skillset because their defense is below average (37.1 3PT%, -0.1 defensive box plus-minus). These players tend to have plays run for them where they come off screens for open three-pointers and rarely attempt other types of shots (6.2 FGA, 3.7 3PT FGA). The value of 3-point specialists comes from their ability to space the floor, which opens up space for the scorers and playmakers on the team.
+The 3-point specialist is similar to the 3&D specialist but even more limited in their skillset because their defense is below average (37.1 3PT%, -0.1 defensive box plus-minus). These players tend to have plays run for them where they come off screens for open three-pointers and rarely attempt other types of shots (60% 3-point attempt rate). The value of 3-point specialists comes from their ability to space the floor, which opens up space for the scorers and playmakers on the team.
 
 Notable Players:
 - Nicolas Batum
