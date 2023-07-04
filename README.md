@@ -1,7 +1,7 @@
 # NBA_Player_Clustering
 
 ## Background
-NBA positions have been changing quite a bit over the past decade. Teams rarely start a traditional starting five of point guard, shooting guard, small forward, power forward, and center anymore. Often times we will see an additional guard/forward replace the power forward or center to sacrifice rebounding for an increased ability to switch on defense. With that in mind, I aimed to see if I could use a machine learning model to identify the new positions of the modern NBA. Below is a quick summary of the process I followed to perform this analysis (the full code can be found in repo’s Jupyter notebook): 
+NBA positions have been changing quite a bit over the past decade. Teams rarely start a traditional starting five of point guard, shooting guard, small forward, power forward, and center anymore. Often times we will see an additional guard/forward replace the power forward or center to sacrifice rebounding for an increased ability to switch on defense. With that in mind, I aimed to see if I could use a machine learning model to identify the new positions of the modern NBA. Below is a quick summary of the process I followed to perform this analysis (the full code can be found in this repo’s Jupyter notebook): 
 - Download data for NBA player per game stats and advanced stats for the 2022-2023 NBA season
 - Combine the separate per game and advanced stats into one dataframe for Python
 - Remove any extraneous columns and clean up data
