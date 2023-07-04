@@ -1,22 +1,22 @@
 # NBA_Player_Clustering
 
 NBA positions have been changing quite a bit over the past decade. Teams rarely start a traditional starting five of point guard, shooting guard, small forward, power forward, and center anymore. Often times we will see an additional guard/forward replace the power forward or center to sacrifice rebounding for an increased ability to switch on defense. With that in mind, I aimed to see if I could use a machine learning model to identify the new positions of the modern NBA. Below is a quick summary of the process I followed to perform this analysis (the full code can be found in repo’s Jupyter notebook): 
-  •	Download data for NBA player per game stats and advanced stats for the 2022-2023 NBA season
-  •	Combine the separate per game and advanced stats into one dataframe for Python
-  •	Remove any extraneous columns and clean up data
-  •	Reduce the dimensionality of the data from around 30 inputs to 3 using principal component analysis (PCA)
-  •	Fit a K-Means Clustering machine learning algorithm on the dimensionally reduced data to obtain the groupings representing modern NBA     positions
-  •	Manually analyze the groupings to come up with names for each position
+- Download data for NBA player per game stats and advanced stats for the 2022-2023 NBA season
+- Combine the separate per game and advanced stats into one dataframe for Python
+- Remove any extraneous columns and clean up data
+- Reduce the dimensionality of the data from around 30 inputs to 3 using principal component analysis (PCA)
+- Fit a K-Means Clustering machine learning algorithm on the dimensionally reduced data to obtain the groupings representing modern NBA     positions
+- Manually analyze the groupings to come up with names for each position
 
 The above analysis resulted in 8 positions that are found in the modern NBA:
-  •	Volume combo guard
-  •	Two-way big 
-  •	3&D specialists
-  •	Scoring playmaker
-  •	3-point specialists
-  •	Rebounding big 
-  •	Volume scorer
-  •	Two-way superstars
+- Volume combo guard
+- Two-way big 
+- 3&D specialists
+- Scoring playmaker
+- 3-point specialists
+- Rebounding big 
+- Volume scorer
+- Two-way superstars
 
 We’ll now dive into some trends observed and notable players for each position. Note that all statistics referenced below are an average for each position.
 
