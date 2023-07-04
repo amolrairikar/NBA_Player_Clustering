@@ -76,6 +76,6 @@ Notable Players:
 - Ivaca Zubac
 
 ## Position 7: Scorer
-
+The scorer
 
 ## Position 8: Two-way Superstar
