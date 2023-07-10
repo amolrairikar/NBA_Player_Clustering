@@ -82,6 +82,21 @@ Notable Players:
 - Ivaca Zubac
 
 ## Position 7: Scorer
-The scorer
+The scorer encompasses a variety of traditional NBA positions who are strong scorers (16.4 PPG) and efficient shooters (0.573 TS%). Similar to the scoring playmaker, these players are also not as strong at defense (-0.6 defensive box plus-minus). The biggest factor separating this group of players from the scoring playmaker is their lack of playmaking ability (3.9 APG). These players often make great 2nd/3rd scoring options on a championship team, and have the ability to carry a team for a few games if they get in a groove.
+
+Notable Players:
+- Tobias Harris
+- Mikal Bridges
+- Jerami Grant
+- RJ Barrett
+- Tyler Herro
 
 ## Position 8: Two-way Superstar
+These players are the absolute best in the NBA, great at both offense (6.1 offensive box plus-minus) and defense (1.98 box plus-minus). In today's NBA, it is hard to find players that excel on both sides of the ball -- this is why several NBA superstars fall under the scoring playmakers category since their defense is below average. The two-way superstar can carry a supporting cast to the playoffs and even a championship appearance because they are able to elevate their team on both sides of the game.
+
+Notable Players:
+- Jimmy Butler
+- Giannis Antetokounmpo
+- Joel Embiid
+- Nikola Jokic
+- Jayson Tatum
